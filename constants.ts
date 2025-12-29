@@ -128,7 +128,7 @@ export const PRESETS: Preset[] = [
       flowSpeed: 2.1,
       flowRange: 38,
       points: [
-        { id: 'rg1', color: '#FDE047', x: 30, y: 30, size: 40, rx: 1.3, ry: 2.1 },
+        { id: 'rg1', color: '#FDE047', x: 40, y: 30, size: 40, rx: 1.3, ry: 2.1 },
         { id: 'rg2', color: '#991B1B', x: 70, y: 30, size: 40, rx: 1.9, ry: 1.5 },
         { id: 'rg3', color: '#6B21A8', x: 30, y: 70, size: 40, rx: 1.1, ry: 2.4 },
         { id: 'rg4', color: '#FDA4AF', x: 70, y: 70, size: 30, rx: 1.8, ry: 1.7 },
